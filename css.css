@@ -19,6 +19,7 @@ table{
 td{
     border-collapse: collapse;
     border: 1px solid black;
+    padding-left: 80px;
 }
 div.right{
     text-align: right;
@@ -46,6 +47,7 @@ div.linkbutton{
     text-align: center;
     font-size: 50px;
     border: slateblue solid 5px;
+    overflow-x: auto;
 }
 div.linkbutton:hover{
     background-color: turquoise;
